@@ -5,6 +5,7 @@
 
 int main(int argc, char const *argv[])
 {
+    // num n starts with 10
     int n = 10;
     int a[n];
     time_t t;
